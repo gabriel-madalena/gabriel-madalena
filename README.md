@@ -2,8 +2,8 @@
 <div align="center">
 
 
-<p align="left">🇧🇷: Olá! Sou Gabriel Madalena dos Santos, um programador apaixonado de 19 anos e estudante de Engenharia de Software na Universidade da Região de Joinville (FURJ). O meu objetivo é desenvolver soluções tecnológicas que possam impactar positivamente a sociedade e o meio ambiente. </p>
-<p align="left">🇺🇸: Hi! I'm Gabriel Madalena dos Santos, a 19-year-old passionate programmer and Software Engineering student at the University of the Joinville Region (FURJ). My goal is to develop technological solutions that can positively impact society and the environment. </p>
+<p align="left">🇧🇷: Olá! Sou Gabriel Madalena dos Santos, um programador apaixonado de 21 anos e estudante de Engenharia de Software na Universidade da Região de Joinville (FURJ). O meu objetivo é desenvolver soluções tecnológicas que possam impactar positivamente a sociedade e o meio ambiente. </p>
+<p align="left">🇺🇸: Hi! I'm Gabriel Madalena dos Santos, a 21-year-old passionate programmer and Software Engineering student at the University of the Joinville Region (FURJ). My goal is to develop technological solutions that can positively impact society and the environment. </p>
 <div> 
   <a href="https://www.instagram.com/gabriel_madala/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-madalena-dos-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
